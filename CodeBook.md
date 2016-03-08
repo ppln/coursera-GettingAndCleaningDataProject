@@ -23,9 +23,9 @@ Human Activity Recognition Using Smartphones Data Set ](http://archive.ics.uci.e
 ###The Script "run_analysis.R" do the following steps
 * load the library "plyr" required for this script.
 * Download the dataset and unzip it.
-* read "activity_labels" and "features"
+* read "activity_labels" and "features".
 * extract only the measurements on the "mean" and "standard deviation", rename the activities.
-* read and assemble "test" and "train" datasets
+* read and assemble "test" and "train" datasets.
 * merge "test" and "train" datasets, set column names.
 * calculate average of each variable for each activity and each subject.
 * output the tidy data set.
