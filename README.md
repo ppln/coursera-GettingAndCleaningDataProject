@@ -11,7 +11,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 
 #Files
-* "run_analysis.R" was created by RStudio(Version 0.99.491) based on R-3.2.3. It will download the data set file, unzip the file, read the data sets, and do some merges, cleaning, then output an independent tidy data set.
+* "run_analysis.R" was created by RStudio(Version 0.99.491) based on R-3.2.3. It will download the data set, unzip the file, read the data sets, and do some merging, cleaning, and finally output an independent tidy data set.
 
 * "CodeBook.md" describes all the variables and summaries calculated, along with units, and any other relevant information.
 
